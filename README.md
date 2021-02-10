@@ -1,4 +1,4 @@
-# cuDF examples
+# cuDF examples in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nonjosh/cudf-test/blob/main/Copy_of_rapids_cudf.ipynb)
 last updated at 20210210 
