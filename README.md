@@ -16,3 +16,5 @@ bash rapidsai-csp-utils/colab/rapids-colab.sh s
 - [https://github.com/ritchieng/deep-learning-wizard/blob/master/docs/machine_learning/gpu/rapids_cudf.ipynb]
 
 - [https://github.com/rapidsai/rapidsai-csp-utils]
+
+- [https://docs.rapids.ai/api/cudf/stable/api.html]
